@@ -1,3 +1,3 @@
 # LoginSocial
 
-metodo de autenticação via protocolo OAuth20 com o gmail
+estrategia de autenticação via protocolo OAuth20 com o gmail
